@@ -1,0 +1,27 @@
+footer {
+    background: rgb(28,54,67);
+    background: linear-gradient(90deg, rgb(28, 57, 71) 0%, rgba(29,82,113,1) 73%)!important;  
+}
+
+.gradiente {
+    background: rgb(0,0,0);
+    background: linear-gradient(180deg, rgba(0,0,0,0.7010154403558299) 0%, rgba(0,0,0,0.2528361686471463) 100%);
+    text-align: justify;
+}
+
+.card-img-top:hover {
+    opacity: 0.5;
+}
+
+.card-body {
+    text-align: justify;
+}
+
+.col {
+    text-align: justify;
+}
+
+.carousel-inner {
+    filter: brightness(50%);
+    object-fit: cover;
+}
